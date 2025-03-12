@@ -24,11 +24,8 @@ Supported Languages
 Images of the UI of the App
 <img width="959" alt="Screenshot 2024-03-17 223957" src="https://github.com/user-attachments/assets/99af8a74-40fb-4f28-8f82-4e371050cbfc" />
 
-First Page
+English
 <img width="960" alt="Screenshot 2024-02-13 153728" src="https://github.com/user-attachments/assets/aaf852e1-6597-4164-92c3-6ccb1ea48cdc" />
-
-Chat History
-<img width="960" alt="Screenshot 2024-03-17 224111" src="https://github.com/user-attachments/assets/13c7286c-2253-45de-8435-49df1c0d8ad8" />
 
 Malayalam
 <img width="960" alt="Screenshot 2024-03-17 224337" src="https://github.com/user-attachments/assets/46596952-a71b-45e1-9814-b91087f546e4" />
