@@ -25,19 +25,22 @@ Supported Languages
 - Kannada (ಕನ್ನಡ)
 - English
 
-Images of the UI of the App
+App Screenshots:
 <img width="959" alt="Screenshot 2024-03-17 223957" src="https://github.com/user-attachments/assets/99af8a74-40fb-4f28-8f82-4e371050cbfc" />
-
 English
+
 <img width="960" alt="Screenshot 2024-02-13 153728" src="https://github.com/user-attachments/assets/aaf852e1-6597-4164-92c3-6ccb1ea48cdc" />
+Chat History
 
+<img width="960" alt="Screenshot 2024-03-17 224506" src="https://github.com/user-attachments/assets/cac3398b-a050-416a-ba87-52fc512c8835" />
 Malayalam
+
 <img width="960" alt="Screenshot 2024-03-17 224337" src="https://github.com/user-attachments/assets/46596952-a71b-45e1-9814-b91087f546e4" />
-
 Kannada
-<img width="960" alt="Screenshot 2024-03-17 224506" src="https://github.com/user-attachments/assets/536314f3-a2b9-452e-81ab-297ff63e29c4" />
 
+<img width="960" alt="Screenshot 2024-03-17 224506" src="https://github.com/user-attachments/assets/536314f3-a2b9-452e-81ab-297ff63e29c4" />
 Hindi
+
 
 
 
