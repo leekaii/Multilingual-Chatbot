@@ -1,5 +1,9 @@
-# Multilingual Chatbot
-This project introduces a multilingual chatbot that provides an enhanced conversational experience, including text and voice-based communication. The chatbot can converse in Malayalam, Hindi, Kannada, and English. It leverages OpenAI's GPT for intelligent conversations and FAISS for efficient document similarity search to retrieve relevant information. The chatbot also features a chat history function, allowing users to revisit previous conversations.
+# Multilingual Chatbot for St. Gregorios Dayabhavan
+This project introduces a multilingual chatbot  prototype built using Streamlit for St. Gregorios Dayabhavan, a charitable initiative of the Malankara Orthodox Mission Board. The chatbot supports Malayalam, Hindi, Kannada, and English, with both text and voice-based interaction.
+
+Built using OpenAI’s GPT for intelligent conversation and FAISS for fast document retrieval, the chatbot helps community members explain Dayabhavan’s mission and activities to visitors, local authorities, and donors. It also includes a chat history feature for revisiting past conversations.
+
+The chatbot aims to make it easier for volunteers and guides to communicate Dayabhavan’s work in healthcare, rehabilitation, and education for underprivileged children. My team's aim was to enhance communication and outreach for the Dayabhavan community through accessible, multilingual AI.
 
 Features
 - Multilingual Conversational Abilities: The chatbot can interact with users via text and voice in Malayalam, Hindi, Kannada, and English.
